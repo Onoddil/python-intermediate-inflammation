@@ -1,5 +1,6 @@
 attrs==21.2.0
 certifi==2021.10.8
+coverage==6.2
 cycler==0.11.0
 dulwich==0.20.26
 fonttools==4.28.3
@@ -14,6 +15,7 @@ pluggy==1.0.0
 py==1.11.0
 pyparsing==3.0.6
 pytest==6.2.5
+pytest-cov==3.0.0
 python-dateutil==2.8.2
 setuptools-scm==6.3.2
 six==1.16.0
